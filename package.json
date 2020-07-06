@@ -113,7 +113,7 @@
 		"webpack": "^4.29.3"
 	},
 	"dependencies": {
-		"@accounts/mongo": "0.0.12",
+		"@accounts/mongo": "0.27.0",
 		"@accounts/server": "0.0.18",
 		"@babel/runtime": "^7.7.6",
 		"@google-cloud/language": "^2.0.0",
